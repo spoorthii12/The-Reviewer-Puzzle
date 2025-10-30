@@ -3,7 +3,7 @@ Solving the Challenge of Identifying the Best Evaluators for Research Papers at 
 
 Deployed Streamlit Link - https://scibert-reviewer-app-tegzimpcgqx82arwqq7wxd.streamlit.app/
 
-We tried 4 different approaches to solve this problem;
+We tried 4 different approaches to solve this problem:                                                                                   
 (1) code link - https://colab.research.google.com/drive/1rFU2YzGHC9E133O4-OgC6eeaWCA98u7X?usp=sharing
 	>Extracts text from PDFs in a dataset.
 	>Cleans and vectorizes them using TF-IDF.
